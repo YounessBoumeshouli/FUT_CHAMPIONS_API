@@ -3811,7 +3811,7 @@
                     "id": "trait2_2",
                     "label": "1v1 Close Down",
                     "description": "Unique reflex saves, better close shot reads, faster rush",
-                    "imageUrl": "https://images.ctfassets.net/rs6bgs1g8dbr/4wwnzFkg1zLTAc4QSsXiWO/5fa897cf739a93bddf3556e2323f9b8b/1v1_Close_Down.png",
+                    "imageUrl": "   ",
                     "type": {
                         "id": "playStyle",
                         "label": "Play Style"
